@@ -62,8 +62,5 @@ ProfitMargin%    = DIVIDE([TotalProfit], [TotalSales], 0)
  ┣ 📄SalesAnalysis.pbit   ← Power BI Template file
  ┗ 📄 README.md
 ```
-## 🙋‍♂️ Author
 
-Built as part of a Power BI learning assignment.  
-Feel free to fork, explore, and build on top of it!
 
