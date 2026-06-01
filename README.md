@@ -1,3 +1,5 @@
+<img width="1909" height="1063" alt="image" src="https://github.com/user-attachments/assets/4bf7ace1-57e5-46b9-932c-37e27671be77" />
+
 # 📊 Sales Performance Dashboard — Power BI Assignment 2
 
 An interactive **Sales Analytics Dashboard** built in Power BI, designed to provide end-to-end visibility into retail sales performance across regions, products, customers, and time periods.
